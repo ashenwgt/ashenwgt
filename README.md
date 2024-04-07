@@ -7,13 +7,13 @@
 <p>
 I'm a <b>Software Engineer</b> from <b>Sri Lanka</b> 🇱🇰 (In case you didn't know, we are a beautiful island country 🌊🏄‍♂️🍹🏖😎🌴☀️🐘 in South Asia 🌏).
 
-For work, I build wealth & investments management systems, banking & payments systems, and electronic trading systems for global financial markets 📈🇺🇸🇬🇧🇨🇦🇸🇪🇪🇺.
+For work, I build <b>wealth & investments management systems</b>, banking & payments systems, and electronic trading systems for global financial markets 📈🇺🇸🇬🇧🇨🇦🇸🇪🇪🇺.
 
-I have experience in designing, building, deploying, and SREing production-grade cloud-native and serverless applications running on Kubernetes <img src="https://static-00.iconduck.com/assets.00/kubernetes-icon-2048x1995-r1q3f8n7.png" width="18"/> and AWS Lambda <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/281px-Amazon_Lambda_architecture_logo.svg.png" width="18"/>.
+I have experience in designing, building, deploying, and SREing production-grade cloud-native and serverless applications running on <b>Kubernetes</b> <img src="https://static-00.iconduck.com/assets.00/kubernetes-icon-2048x1995-r1q3f8n7.png" width="18"/> and <b>AWS Lambda</b> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/281px-Amazon_Lambda_architecture_logo.svg.png" width="18"/>.
 
 During my free time, I also run a few hobbyist projects 🎧 such as tech blogging on Medium 📝. My blogs have received 2+ million total views so far 🙏🏻, including multiple 100K+ views blog posts ranked on top of Google Search 🏆.
 
-I am an AWS Community Builder <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" width="18" /> for Serverless category and a strong advocate for cloud architectures ⛅️, microservices 🧩, and clean code 🎯.
+I am an AWS Community Builder <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" width="18" /> for Serverless category and a strong advocate for <b>cloud architectures</b> ⛅️, <b>microservices</b> 🧩, and <b>clean code</b> 🎯.
 
 I always look forward to learning and sharing new knowledge with the community. Let's keep in touch! 🙌🏻⚡️
 
@@ -21,7 +21,7 @@ I always look forward to learning and sharing new knowledge with the community. 
 
 <!-- Technologies -->
 
-<h4 align="middle">My Favourite Technologies</h4>
+<h3 align="middle">My Favourite Technologies</h3>
 
 <div align="middle">
 
@@ -71,7 +71,7 @@ I always look forward to learning and sharing new knowledge with the community. 
 
 <!-- Blogs -->
 
-<h4 align="middle">My Most Viewed Blogs</h4>
+<h3 align="middle">My Most Viewed Blogs</h3>
 
 <dev align="left">
 
@@ -81,7 +81,7 @@ I always look forward to learning and sharing new knowledge with the community. 
 
 <!-- Social Links -->
 
-<h4 align="middle">My Social Links</h4>
+<h3 align="middle">My Social Links</h3>
 <p align="middle">
 <a href="https://linkedin.com/in/thilinaashengamage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thilinaashengamage" height="30" width="40" /></a>
 <a href="https://twitter.com/ashenwgt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashenwgt" height="30" width="40" /></a>

@@ -5,17 +5,17 @@
 <!--  About -->
 
 <p>
-I'm a <b>Software Engineer</b> from <b>Sri Lanka</b> <img src="https://cdn-icons-png.flaticon.com/512/299/299821.png" width="13"/> (In case you didn't know, we are a beautiful island country 🌊🏄‍♂️🍹🏖😎🌴☀️🐘 in South Asia 🌏).
+I'm a <b>Software Engineer</b> from <b>Sri Lanka</b> 🇱🇰 (In case you didn't know, we are a beautiful island country 🌊🏄‍♂️🍹🏖😎🌴☀️🐘 in South Asia 🌏).
 
-For work, I build wealth & investments management systems, payments and banking systems, and electronic trading systems for global financial markets 📈🇺🇸🇬🇧🇨🇦🇸🇪🇪🇺.
+For work, I build wealth & investments management systems, banking & payments systems, and electronic trading systems for global financial markets 📈🇺🇸🇬🇧🇨🇦🇸🇪🇪🇺.
 
 I have experience in designing, building, deploying, and SREing production-grade cloud-native and serverless applications running on Kubernetes <img src="https://static-00.iconduck.com/assets.00/kubernetes-icon-2048x1995-r1q3f8n7.png" width="18"/> and AWS Lambda <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/281px-Amazon_Lambda_architecture_logo.svg.png" width="18"/>.
 
-On side, I also run a few hobbyist projects 🎧 such as tech blogging on Medium 📝. My blogs have received 2+ millions of total views so far 🙏🏻, including multiple 100K+ views blog posts ranked on top of Google Search 🏆.
+During my free time, I also run a few hobbyist projects 🎧 such as tech blogging on Medium 📝. My blogs have received 2+ million total views so far 🙏🏻, including multiple 100K+ views blog posts ranked on top of Google Search 🏆.
 
 I am an AWS Community Builder <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" width="18" /> for Serverless category and a strong advocate for cloud architectures ⛅️, microservices 🧩, and clean code 🎯.
 
-I'm really looking forward to learning and sharing new knowledge with the community. Let's keep in touch! 🙌🏻⚡️
+I always look forward to learning and sharing new knowledge with the community. Let's keep in touch! 🙌🏻⚡️
 
 </p>
 

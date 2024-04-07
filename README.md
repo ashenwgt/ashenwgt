@@ -5,11 +5,11 @@
 <!--  About -->
 
 <p>
-I'm a <b>Software Engineer</b> from <b>Sri Lanka</b> 🇱🇰 (In case you didn't know, we are a beautiful island country 🌊🏄‍♂️🍹🏖😎🌴☀️🐘 in South Asia 🌏).
+I'm a <b>Software Engineer</b> living in <b>Sri Lanka</b> 🇱🇰 (In case you didn't know, we are a beautiful island country 🌊🏄‍♂️🍹🏖😎🌴☀️🐘 in South Asia 🌏).
 
 For work, I build <b>wealth & investments management systems</b>, banking & payments systems, and electronic trading systems for global financial markets 📈🇺🇸🇬🇧🇨🇦🇸🇪🇪🇺.
 
-I have experience in designing, building, deploying, and SREing production-grade cloud-native and serverless applications running on <b>Kubernetes</b> <img src="https://static-00.iconduck.com/assets.00/kubernetes-icon-2048x1995-r1q3f8n7.png" width="18"/> and <b>AWS Lambda</b> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/281px-Amazon_Lambda_architecture_logo.svg.png" width="18"/>.
+I have experience in designing, developing, deploying, and SREing production-grade cloud-native and serverless applications running on <b>Kubernetes</b> <img src="https://static-00.iconduck.com/assets.00/kubernetes-icon-2048x1995-r1q3f8n7.png" width="18"/> and <b>AWS Lambda</b> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/281px-Amazon_Lambda_architecture_logo.svg.png" width="18"/>.
 
 During my free time, I also run a few hobbyist projects 🎧 such as tech blogging on Medium 📝. My blogs have received 2+ million total views so far 🙏🏻, including multiple 100K+ views blog posts ranked on top of Google Search 🏆.
 

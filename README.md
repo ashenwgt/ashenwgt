@@ -21,7 +21,7 @@ I always look forward to learning and sharing new knowledge with the community. 
 
 <!-- Technologies -->
 
-<h3 align="middle">My Favourite Technologies</h3>
+<h3 align="middle">Favourite Technologies</h3>
 
 <div align="middle">
 
@@ -71,7 +71,7 @@ I always look forward to learning and sharing new knowledge with the community. 
 
 <!-- Blogs -->
 
-<h3 align="middle">My Most Viewed Blogs</h3>
+<h3 align="middle">Most Viewed Blogs</h3>
 
 <dev align="left">
 
@@ -81,7 +81,7 @@ I always look forward to learning and sharing new knowledge with the community. 
 
 <!-- Social Links -->
 
-<h3 align="middle">My Social Links</h3>
+<h3 align="middle">Social Links</h3>
 <p align="middle">
 <a href="https://linkedin.com/in/thilinaashengamage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thilinaashengamage" height="30" width="40" /></a>
 <a href="https://twitter.com/ashenwgt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashenwgt" height="30" width="40" /></a>

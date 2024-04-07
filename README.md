@@ -1,6 +1,6 @@
 <!--  Greeting -->
 
-<h1 align="center">Hey 👋🏻, I'm Ashen  <img src="https://cdn-icons-png.flaticon.com/512/1163/1163675.png" width="35"/> </h1>
+<h1 align="center">Hey 👋🏻, I'm Ashen  🧑🏻‍💻 <img src="https://cdn-icons-png.flaticon.com/512/1163/1163675.png" width="35"/></h1>
 
 <!--  About -->
 

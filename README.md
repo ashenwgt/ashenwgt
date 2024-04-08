@@ -13,7 +13,7 @@ I have experience in designing, developing, deploying, and SREing production-gra
 
 During my free time, I also run a few hobbyist projects 🎧 such as tech blogging on Medium 📝. My blogs have received 2+ million total views so far 🙏🏻, including multiple 100K+ views blog posts ranked on top of Google Search 🏆.
 
-I contribute as an AWS Community Builder (Serverless Team <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/281px-Amazon_Lambda_architecture_logo.svg.png" width="18"/>) and am a strong advocate for <b>cloud architectures</b> ⛅️, <b>microservices</b> 🧩, <b>DevOps/SRE culture</b> 🛠️, and <b>clean code</b> 🎯.
+I contribute as an AWS Community Builder (Serverless Team <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/281px-Amazon_Lambda_architecture_logo.svg.png" width="18"/>) and am a strong advocate for <b>cloud architectures</b> ⛅️, <b>microservices</b> 🧩, <b>DevOps/SRE culture</b> 🚀, and <b>clean code</b> 🎯.
 
 I always look forward to learning, experimenting, and sharing new knowledge with the community. Let's keep in touch! 🙌🏻⚡️
 

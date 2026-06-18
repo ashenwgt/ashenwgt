@@ -2,19 +2,32 @@
 
 <h1 align="center">Hey 👋🏻, I'm Ashen  🧑🏻‍💻 <img src="https://cdn-icons-png.flaticon.com/512/1163/1163675.png" width="35"/></h1>
 
+<h3 align="center">
+  Cloud Architect • Technical Lead • AWS Community Builder
+</h3>
+
+<p align="center">
+ <i>
+   Building scalable and secure cloud platforms in financial technology domain.
+ </i>
+</p>
+
 <!--  About -->
 
 <p>
 I'm a <b>Lead Cloud Engineer</b> currently based in <b>Melbourne, Australia</b> 🇦🇺.
 
-For the past 7+ years, I have been building investments & wealth management systems, banking & payments integrations, and multi-asset trading platforms for global financial markets 🇺🇸🇬🇧🇨🇦🇸🇪🇪🇺.
+Over the past 7+ years, I've designed and delivered cloud-native platforms in FinTech and Capital Markets domains across North America, Europe, and the UK 🇺🇸🇬🇧🇨🇦🇸🇪🇪🇺.
 
-I have experience in designing, developing, deploying, and SREing production-grade cloud-native and serverless applications running on <b>AWS Lambda   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Amazon_Lambda_architecture_logo.png" width="18"/></b> and <b>Kubernetes</b> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/500px-Kubernetes_logo_without_workmark.svg.png" width="18"/>.
+My experience spans:
 
-My technical guides on cloud architecture and distributed systems
-have accumulated 2M+ total views on Medium, with multiple posts ranking at
-the top of Google Search. I also contribute as an <b>AWS Community Builder</b>
- <img src="https://cdn.iconscout.com/icon/free/png-256/free-amazon-aws-icon-svg-download-png-2944772.png" width="18" />.
+- Cloud Architecture & Platform Engineering
+- AWS Serverless & Kubernetes Platforms
+- Distributed Systems & Microservices
+- DevOps, Security, Infrastructure as Code, & SRE
+- Financial Services & Capital Markets Technology
+
+Feel free to explore my projects, technical articles, and open-source contributions. I'm always happy to connect with fellow engineers, architects, and cloud practitioners.
 
 </p>
 

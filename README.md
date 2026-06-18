@@ -7,15 +7,14 @@
 <p>
 I'm a <b>Lead Cloud Engineer</b> currently based in <b>Melbourne, Australia</b> 🇦🇺.
 
-For the past 7+ years, I have been building investments & wealth management systems, banking & payments integrations, and multi-asset trading platforms for global financial markets 📈🇺🇸🇬🇧🇨🇦🇸🇪🇪🇺.
+For the past 7+ years, I have been building investments & wealth management systems, banking & payments integrations, and multi-asset trading platforms for global financial markets 🇺🇸🇬🇧🇨🇦🇸🇪🇪🇺.
 
-I have experience in designing, developing, deploying, and SREing production-grade cloud-native and serverless applications running on <b>Kubernetes</b> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/500px-Kubernetes_logo_without_workmark.svg.png" width="18"/> and <b>AWS Cloud</b> <img src="https://cdn.iconscout.com/icon/free/png-256/free-amazon-aws-icon-svg-download-png-2944772.png" width="18" />.
+I have experience in designing, developing, deploying, and SREing production-grade cloud-native and serverless applications running on <b>AWS Lambda   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Amazon_Lambda_architecture_logo.png" width="18"/></b> and <b>Kubernetes</b> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/500px-Kubernetes_logo_without_workmark.svg.png" width="18"/>.
 
-During my free time, I also run a few hobbyist projects 🎧 such as tech blogging on Medium 📝. My blogs have received 2+ million total views so far 🙏🏻, including multiple 100K+ views blog posts ranked on top of Google Search 🏆.
-
-I contribute as an AWS Community Builder (Serverless Team <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Amazon_Lambda_architecture_logo.png" width="18"/>) and am a strong advocate for <b>cloud architectures</b> ⛅️, <b>microservices</b> 🧩, <b>DevOps/SRE culture</b> 🚀, and <b>clean code</b> 🎯.
-
-I always look forward to learning, experimenting, and sharing new knowledge with the community. Let's keep in touch! 🙌🏻⚡️
+My technical guides on cloud architecture and distributed systems
+have accumulated 2M+ total views on Medium, with multiple posts ranking at
+the top of Google Search. I also contribute as an <b>AWS Community Builder</b>
+ <img src="https://cdn.iconscout.com/icon/free/png-256/free-amazon-aws-icon-svg-download-png-2944772.png" width="18" />.
 
 </p>
 
